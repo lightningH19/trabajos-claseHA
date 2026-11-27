@@ -1,0 +1,12 @@
+factor_usu = int(input("¿De que número del 1 al 100 quiere usted conozer sus múltiplos del 1 al 10? "))
+
+print(f"{factor_usu:<4} x {1:^3} = {factor_usu*1:>4}")
+print(f"{factor_usu:<4} x {2:^3} = {factor_usu*2:>4}")
+print(f"{factor_usu:<4} x {3:^3} = {factor_usu*3:>4}")
+print(f"{factor_usu:<4} x {4:^3} = {factor_usu*4:>4}")
+print(f"{factor_usu:<4} x {5:^3} = {factor_usu*5:>4}")
+print(f"{factor_usu:<4} x {6:^3} = {factor_usu*6:>4}")
+print(f"{factor_usu:<4} x {7:^3} = {factor_usu*7:>4}")
+print(f"{factor_usu:<4} x {8:^3} = {factor_usu*8:>4}")
+print(f"{factor_usu:<4} x {9:^3} = {factor_usu*9:>4}")
+print(f"{factor_usu:<4} x {10:^3} = {factor_usu*10:>4}")
